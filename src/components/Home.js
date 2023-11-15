@@ -66,6 +66,9 @@ function Home() {
           </div>
         ))}
       </div>
+      
+      {/* Add button to navigate to the Add/Edit User page in "add" mode */}
+      {/* <Link to="/addEditUser" className="btn btn-primary">Add User</Link> */}
     </>
   );
 }
