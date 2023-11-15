@@ -66,13 +66,13 @@ function Login() {
                     <br />
                     <label className='form-label d-block mt-1'>
 
-                        <input className='form-control' type='text' name='username' placeholder='Username:'/>
+                        <input className='form-control' type='mor_2314' name='username' placeholder='Username:'/>
                         <br />
                     </label>
                     <br />
                     <label className='form-label d-block'>
 
-                        <input className='form-control' type='password' name='password' placeholder='Password:'/>
+                        <input className='form-control' type='83r5^_' name='password' placeholder='Password:'/>
                         <br />
                     </label>
                     <br />
